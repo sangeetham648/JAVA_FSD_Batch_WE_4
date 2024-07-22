@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a75e0-b3d0-4812-b12e-abb69517e7f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_FSD_Batch_WE_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_01/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_01/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_01/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_01/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_01/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_01/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_01/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_01/Q6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +46,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q5">
+  <component name="RunManager" selected="Application.Q6">
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_01.Q1" />
       <module name="JAVA_FSD_Batch_WE_4" />
@@ -124,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q6" />
         <item itemvalue="Application.Q5" />
         <item itemvalue="Application.Q3" />
         <item itemvalue="Application.Q2" />
         <item itemvalue="Application.Q1" />
-        <item itemvalue="Application.Q6" />
       </list>
     </recent_temporary>
   </component>

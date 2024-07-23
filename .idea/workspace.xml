@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a75e0-b3d0-4812-b12e-abb69517e7f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_02/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_02/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_02/XYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_03/BookManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_03/Taxable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_03/XYZ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Account.executor": "Run",
+    "Application.BookManagementSystem.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Q1.executor": "Run",
@@ -47,19 +48,20 @@
     "Application.Q3.executor": "Run",
     "Application.Q5.executor": "Run",
     "Application.Q6.executor": "Run",
+    "Application.Task_03.XYZ.executor": "Run",
     "Application.XYZ.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.XYZ">
-    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_02.Account" />
+  <component name="RunManager" selected="Application.Task_03.XYZ">
+    <configuration name="BookManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_03.BookManagementSystem" />
       <module name="JAVA_FSD_Batch_WE_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_02.*" />
+          <option name="PATTERN" value="Task_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_01.Q6" />
+    <configuration name="Task_03.XYZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_03.XYZ" />
       <module name="JAVA_FSD_Batch_WE_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_01.*" />
+          <option name="PATTERN" value="Task_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_03.XYZ" />
+        <item itemvalue="Application.BookManagementSystem" />
         <item itemvalue="Application.XYZ" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Account" />
-        <item itemvalue="Application.Q6" />
       </list>
     </recent_temporary>
   </component>

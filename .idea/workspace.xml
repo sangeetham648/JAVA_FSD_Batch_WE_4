@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a75e0-b3d0-4812-b12e-abb69517e7f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_04/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_04/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_04/Voter_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_04/Weekdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_05/AgeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_05/NonEmptyStringChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_05/StudentFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_05/UppercaseConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,28 +41,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Account.executor": "Run",
+    "Application.AgeCalculator.executor": "Run",
     "Application.BookManagementSystem.executor": "Run",
     "Application.Employee.executor": "Run",
+    "Application.NonEmptyStringChecker.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q2.executor": "Run",
     "Application.Q3.executor": "Run",
     "Application.Q5.executor": "Run",
     "Application.Q6.executor": "Run",
+    "Application.StudentFilter.executor": "Run",
     "Application.Task_03.XYZ.executor": "Run",
+    "Application.UppercaseConverter.executor": "Run",
     "Application.XYZ.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_03.XYZ">
-    <configuration name="BookManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_03.BookManagementSystem" />
+  <component name="RunManager" selected="Application.AgeCalculator">
+    <configuration name="AgeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_05.AgeCalculator" />
       <module name="JAVA_FSD_Batch_WE_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_03.*" />
+          <option name="PATTERN" value="Task_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_02.Employee" />
+    <configuration name="NonEmptyStringChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_05.NonEmptyStringChecker" />
       <module name="JAVA_FSD_Batch_WE_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_02.*" />
+          <option name="PATTERN" value="Task_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_02.Person" />
+    <configuration name="StudentFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_05.StudentFilter" />
       <module name="JAVA_FSD_Batch_WE_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_02.*" />
+          <option name="PATTERN" value="Task_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XYZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_02.XYZ" />
+    <configuration name="UppercaseConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_05.UppercaseConverter" />
       <module name="JAVA_FSD_Batch_WE_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_02.*" />
+          <option name="PATTERN" value="Task_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgeCalculator" />
+        <item itemvalue="Application.StudentFilter" />
+        <item itemvalue="Application.NonEmptyStringChecker" />
+        <item itemvalue="Application.UppercaseConverter" />
         <item itemvalue="Application.Task_03.XYZ" />
-        <item itemvalue="Application.BookManagementSystem" />
-        <item itemvalue="Application.XYZ" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <style>
+	form{
+		display: flex;
+		flex-direction: column;
+		padding: 25px;
+	}
+	label{
+	margin : 10px 0;
+	}
+	</style>
+</head>
+<body>
+    <div>
+        <form action="#" method="post">
+            <h2>All types of form elements with default values</h2>
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" value = "ABCDE" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" value = "abc@gmail.com" required>
+
+            <label for="subject">Subject</label>
+			<input type="text" id="subject" name="subject" value="Inquiry about services" required>
+
+			<label for="message">Message</label>
+			<textarea id="message" name="message" rows="5" required>Hi, I would like to know more about your services.</textarea>
+
+			<label>Employee Type</label>
+			<div class="employee-type">
+				<input type="radio" id="salaried" name="employee_type" value="salaried" checked>
+				<label for="salaried">Salaried</label>
+				<input type="radio" id="own_business" name="employee_type" value="own_business">
+				<label for="own_business">Own Business</label>
+			</div>
+
+			<label for="dob">Date of Birth</label>
+			<input type="date" id="dob" name="dob" value="1990-01-01">
+
+			<label for="country">Country</label>
+			<select id="country" name="country">
+				<option value="us" selected>India</option>
+				<option value="ca">Canada</option>
+				<option value="uk">United Kingdom</option>
+			</select>
+
+			<label for="quantity">Quantity</label>
+			<input type="number" id="quantity" name="quantity" value="1">
+
+			<label for="color">Favorite Color</label>
+			<input type="color" id="color" name="color" value="#ff0000">
+
+			<label for="range">Range</label>
+			<input type="range" id="range" name="range" value="50">
+
+			<label for="file">Upload File</label>
+			<input type="file" id="file" name="file">
+
+			<label for="password">Password</label>
+			<input type="password" id="password" name="password" value="defaultpassword">
+
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

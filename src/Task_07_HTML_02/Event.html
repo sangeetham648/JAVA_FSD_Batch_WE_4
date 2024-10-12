@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Management</title>
+    <link rel="stylesheet" href="Event.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Event Management</h1>
+        <input type="text" id="search-bar" placeholder="Search for events...">
+        <div id="event-list">
+        </div>
+    </div>
+
+    <div class="container" id="registration-container">
+        <h1 id="registration-title">Event Registration</h1>
+        <h4>No of available seats</h4>
+        <div class="form-container">
+            <div class="profile">
+                <img src="./6515859.webp">
+            </div>
+            <form id="registration-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" name="phone" required>
+
+                <label for="number-of-seats">Number of Seats:</label>
+                <input type="number" id="number-of-seats" name="number-of-seats" min="1" required>
+
+                <label for="attendee-name">Name of Attendee:</label>
+                <input type="text" id="attendee-name" name="attendee-name" required>
+
+                <div class="buttons">
+                    <button type="submit">Submit</button>
+                    <button type="button" id="cancel-button">Cancel</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="Event.js"></script>
+</body>
+
+</html>

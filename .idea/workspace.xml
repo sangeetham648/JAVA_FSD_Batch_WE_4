@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="331a75e0-b3d0-4812-b12e-abb69517e7f5" name="Changes" comment="" />
+    <list default="true" id="331a75e0-b3d0-4812-b12e-abb69517e7f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/GUVI_MYSQL_TASK8_01.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/JdbcConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_02_JDBC_connection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_02_JDBC_connection_output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Account.executor": "Run",
     "Application.AgeCalculator.executor": "Run",
     "Application.BookManagementSystem.executor": "Run",
@@ -140,6 +153,9 @@
       <updated>1721472454140</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

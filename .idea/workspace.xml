@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a75e0-b3d0-4812-b12e-abb69517e7f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/GUVI_MYSQL_TASK8_01.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/JdbcConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_01_q6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_02_JDBC_connection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task_08_SQL/Task_08_02_JDBC_connection_output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task07_Mongo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_07_MongoDb_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_09_MONGODB/Task_09_MongoDb_01.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Account.executor": "Run",
-    "Application.AgeCalculator.executor": "Run",
-    "Application.BookManagementSystem.executor": "Run",
-    "Application.Employee.executor": "Run",
-    "Application.NonEmptyStringChecker.executor": "Run",
-    "Application.Person.executor": "Run",
-    "Application.Q1.executor": "Run",
-    "Application.Q2.executor": "Run",
-    "Application.Q3.executor": "Run",
-    "Application.Q5.executor": "Run",
-    "Application.Q6.executor": "Run",
-    "Application.StudentFilter.executor": "Run",
-    "Application.Task_03.XYZ.executor": "Run",
-    "Application.UppercaseConverter.executor": "Run",
-    "Application.XYZ.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AgeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonEmptyStringChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_03.XYZ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UppercaseConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XYZ.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.AgeCalculator">
     <configuration name="AgeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_05.AgeCalculator" />

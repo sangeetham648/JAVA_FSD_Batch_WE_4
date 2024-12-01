@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://app.zenclass.in/sheets/v1/js/zen/suite/bundle.js"></script>
+</head>
+<body>
+    <section id="container" class="calculator">
+        <form>
+            <input type="text" class="screen" readonly>
+        </form>
+        <div class="button">
+            <button type="button" class="btn btn-clearAll">c</button>
+            <button type="button" class="btn btn-clear">
+                <i class="fa-sharp fa-solid fa-left-long"></i>
+             </button>
+            <button type="button" class="btn" data-num=".">.</button>
+            <button type="button" class="btn btn-blue" data-num="x">x</button>
+            <button type="button" class="btn" data-num="7">7</button>
+            <button type="button" class="btn" data-num="8">8</button>
+            <button type="button" class="btn" data-num="9">9</button>
+            <button type="button" class="btn btn-blue" data-num="/">/</button>
+            <button type="button" class="btn" data-num="4">4</button>
+            <button type="button" class="btn" data-num="5">5</button>
+            <button type="button" class="btn" data-num="6">6</button>
+            <button type="button" class="btn btn-blue" data-num="-">-</button>
+            <button type="button" class="btn" data-num="1">1</button>
+            <button type="button" class="btn" data-num="2">2</button>
+            <button type="button" class="btn" data-num="3">3</button>
+            <button type="button" class="btn btn-blue" data-num="+">+</button>
+            <button type="button" class="btn" data-num="0">0</button>
+            <button type="button" class="btn" data-num="00">00</button>
+            <button type="button" class="btn btn-equal">=</button>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Selected Employee details</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #f8f9fa;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: red;
+        }
+        .button {
+                padding: 10px 15px;
+                background-color: red;
+                color: #fff;
+                border: none;
+                cursor: pointer;
+                border-radius: 4px;
+                font-size: 16px;
+                text-align: center;
+                margin: 0 auto;
+                width: max-content;
+                display: block;
+        }
+        .employee-details {
+            margin: 30px auto;
+            padding: 20px;
+            align-items: center;
+            display: flex;
+            width: 80%;
+            background-color: #ffff;
+            flex-direction: column;
+            color: green;
+        }
+        .employee-details p {
+            font-size: 26px;
+        }
+    </style>
+
+</head>
+<body>
+<h1>Employee Details</h1>
+<div class="employee-details">
+    <p><strong>ID:</strong> <span th:text="${employee.employeeId}"></span></p>
+    <p><strong>Name:</strong> <span th:text="${employee.employeeName}"></span></p>
+    <p><strong>Email:</strong> <span th:text="${employee.employeeEmail}"></span></p>
+    <p><strong>Location:</strong> <span th:text="${employee.location}"></span></p>
+</div>
+<a href="/displayAll" class="button">Back to All Employees</a>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+CREATE TABLE feedback (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    book VARCHAR(255) NOT NULL,
+    feedback TEXT NOT NULL
+);
+
